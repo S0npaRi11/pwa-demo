@@ -1,0 +1,16 @@
+{
+    "short_name": "PWA-demo",
+    "name": "A demo clicker PWA application built with react",
+    "icons": [
+      {
+        "src":"./public/logo192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#222",
+    "theme_color": "#222",
+    "display": "standalone"
+  }
